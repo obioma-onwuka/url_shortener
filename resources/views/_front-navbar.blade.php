@@ -22,7 +22,7 @@
                 <a href="{{ route('shortener_home') }}" class="nav-item nav-link">
                     Url Shortener
                 </a>
-                <a href="{{ route('password_home') }}" class="nav-item nav-link">
+                <a href="#" class="nav-item nav-link">
                     Password Generator
                 </a>
                 <div class="nav-item dropdown">
